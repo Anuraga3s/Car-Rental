@@ -15,7 +15,7 @@ const PORT = process.env.PORT || 3000;
 app.use(express.json());
 app.use(cors({
   origin: "https://car-rental-five-fawn.vercel.app",  // your frontend domain
-  methods: ["GET", "POST", "PUT", "DELETE"],
+  methods: ["GET", "POST", "PUT", "DELETE","OPTIONS"],
   credentials: true
 }));
 
