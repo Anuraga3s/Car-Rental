@@ -73,10 +73,4 @@ This is a full-stack Car Rental web application that allows users to browse, sea
 
 ---
 
-## 📝 Notes
 
-- Make sure to configure your backend API endpoints and database connection.
-- Update environment variables as needed for deployment.
-- For any issues or contributions, please open an issue or pull request.
-
----
