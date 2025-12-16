@@ -56,7 +56,7 @@ export const addCar = async (req,res)=>{
     }
 }
 
-//API to get all List Owener Cars
+//API to get all List Owner Cars
 
 export const getOwnerCars = async (req,res)=>{
     try{
